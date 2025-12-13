@@ -52,4 +52,4 @@ If you have any questions or need support, please open an issue in the [Issues](
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is open-source and available under the [MIT License](LICENSE).

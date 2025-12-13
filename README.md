@@ -25,12 +25,68 @@ Key areas covered in this roadmap include:
 *   Secure, scalable deployment
 
 ---
+## Roadmap Structure & Phases
 
-## Roadmap Structure
+This roadmap is structured into four distinct 30-day phases, progressing from foundational knowledge to advanced, production-level skills, culminating in a final capstone project.
 
-This roadmap is divided into sequential phases, progressing from foundational knowledge to advanced, production-level skills. The file you are currently reading serves as the project's introduction. The detailed learning path will be available in subsequent, linked Markdown files (e.g., `PHASE_1_FOUNDATIONS.md`, `PHASE_2_RAG_SYSTEMS.md`, etc.).
+The detailed learning path for each phase will be available in linked Markdown files below:
 
-Stay tuned as we build out the detailed curriculum, resources, and hands-on projects for each phase!
+---
+
+### [PHASE 1 — LLM & AI Fundamentals](PHASE_1_FOUNDATIONS.md)
+
+*   **Duration:** Days 1–30
+*   **Goal:** Understand how LLMs actually work and build foundational AI knowledge.
+
+### [PHASE 2 — LLM Application Engineering](PHASE_2_RAG_SYSTEMS.md)
+
+*   **Duration:** Days 31–60
+*   **Goal:** Build real, functional LLM-powered systems and explore RAG architectures.
+
+### [PHASE 3 — LLMOps (Production & Scaling)](PHASE_3_PRODUCTION.md)
+
+*   **Duration:** Days 61–90
+*   **Goal:** Learn how to operate, monitor, and scale LLM systems in a production environment.
+
+### [PHASE 4 — Cloud, CI/CD & Scaling](PHASE_4_ENTERPRISE.md)
+
+*   **Duration:** Days 91–110
+*   **Goal:** Implement enterprise-grade LLMOps using robust cloud infrastructure.
+
+---
+
+## FINAL CAPSTONE — END-TO-END LLMOps SYSTEM
+
+*   **Duration:** Days 111–120
+
+The final stage of the roadmap involves a comprehensive capstone project where you will build a production-ready LLMOps platform integrating all learned concepts.
+
+### System Features
+
+The goal is to implement a robust system with the following features:
+
+*   RAG-based knowledge assistant
+*   AI agent with tools
+*   Prompt & model versioning
+*   Evaluation & monitoring
+*   Cost tracking
+*   Guardrails & security
+*   CI/CD automation
+*   Cloud deployment (AWS)
+
+### The Stack
+
+We will utilize industry-standard tools and frameworks:
+
+*   **LLM APIs:** OpenAI / Claude
+*   **Frameworks:** LangChain / LangGraph
+*   **Vector DBs:** Qdrant / FAISS
+*   **Backend:** FastAPI
+*   **Experiment Tracking:** MLflow
+*   **CI/CD:** GitHub Actions
+*   **Infrastructure as Code (IaC):** Terraform
+*   **Cloud Platform:** AWS ECS/EKS
+
 
 ---
 

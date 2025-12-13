@@ -46,7 +46,7 @@ We encourage contributions! If you would like to suggest resources or improvemen
 
 Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
-If you have any questions or need support, please open an issue in the [Issues](github.com) section of this repository.
+If you have any questions or need support, please open an issue in the [Issues](https://github.com/kamipakistan/120-Day-LLMOps/issues). section of this repository.
 
 ---
 
